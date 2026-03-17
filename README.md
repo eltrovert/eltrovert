@@ -7,6 +7,7 @@
 - ☕ Building CAFEin.id — a cafe discovery platform in Indonesia — repo: [cafein.id](https://github.com/eltrovert/cafein.id)
 - 🧠 Running Baker Street’s Gang — a 9-agent setup powered by [OpenClaw](https://github.com/openclaw/openclaw)
 - ☕ Co-building [Vibe From Cafe](https://vibefromcafe.id) — a national remote workers community in Indonesia
+- 🧑‍🏫 Initiated [DevOps Focus Group](https://www.linkedin.com/company/devopsfocusgroup) — a DevOps learning community in Indonesia (~3K members on Discord & Telegram). Join: [linktr.ee/devopsfocusgroup](https://linktr.ee/devopsfocusgroup)
 - 🏡 Running a [homelab](https://github.com/eltrovert/homelab-workshop) that's more complex than most startups' infra
 - 🎓 Certified: CKS · CKA · CKAD + 6× Google Cloud + Red Hat — I collect certs like Pokémon
 - 💬 Ask me about Kubernetes, cloud architecture, GitOps, or Go
