@@ -2,7 +2,7 @@
 
 [🌐 Website](https://eltrovert.com) · [LinkedIn](https://linkedin.com/in/eltrovert) · [Telegram](https://t.me/eltrovert) · [Email](mailto:eltrovert@gmail.com)
 
-- ☁️ Cloud Architect & MLOps Engineer with 13+ years in the trenches — from bare metal to Kubernetes to ML pipelines
+- ☁️ System Architect & Principal DevMLSecOps with 13+ years in the trenches — from bare metal to Kubernetes to ML pipelines
 - 🎓 Kubestronaut: CKS · CKA · CKAD · KCSA · KCNA (Linux Foundation) + 6× Google Cloud + 2× Red Hat — I collect certs like Pokémon
 - 🏗️ Previously architected cloud migrations across GKE, AKS & AWS for enterprises — 1,000+ workloads, zero drama
 - 🧪 Experimenting with agentic automation using [OpenClaw](https://github.com/openclaw/openclaw) + multi-agent systems
