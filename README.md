@@ -1,7 +1,7 @@
 ### Hi there, I'm [El](https://eltrovert.com)! 👋
 
 - ☁️ Cloud Architect & MLOps Engineer with 13+ years in the trenches — from bare metal to Kubernetes to ML pipelines
-- 🤖 Building [Unsio](https://github.com/eltrovert/unsio) — an AI-powered autonomous social media engine, written in Go
+- 🎓 Kubestronaut: CKS · CKA · CKAD · KCSA · KCNA (Linux Foundation) + 6× Google Cloud + 2× Red Hat — I collect certs like Pokémon
 - 🏗️ Previously architected cloud migrations across GKE, AKS & AWS for enterprises — 1,000+ workloads, zero drama
 - 🧪 Experimenting with agentic automation using [OpenClaw](https://github.com/openclaw/openclaw) + multi-agent systems
 - ☕ Building CAFEin.id — a cafe discovery platform in Indonesia — repo: [cafein.id](https://github.com/eltrovert/cafein.id)
@@ -12,7 +12,7 @@
 - 🎓 Certified: CKS · CKA · CKAD + 6× Google Cloud + Red Hat — I collect certs like Pokémon
 - 💬 Ask me about Kubernetes, cloud architecture, GitOps, or Go
 - 🛠️ Tools I live in: Go, Python, Terraform, Helm, FluxCD, ArgoCD, Prometheus, Grafana
-- 📍 Indonesia (open for remote)
+- 📍 Indonesia — open for remote and relocation
 - ⚡ Fun fact: I've been an extroverted introvert since before it was cool — hence *eltrovert*
 
 <!-- profile refresh: 2026-03-18 01:44 WIB -->
