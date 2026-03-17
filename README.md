@@ -1,19 +1,21 @@
 ### Hi there, I'm [El](https://eltrovert.com)! 👋
 
-[🌐 Website](https://eltrovert.com) · [LinkedIn](https://linkedin.com/in/eltrovert) · [Telegram](https://t.me/eltrovert)
+[🌐 Website](https://eltrovert.com) · [LinkedIn](https://linkedin.com/in/eltrovert) · [Telegram](https://t.me/eltrovert) · [Email](mailto:eltrovert@gmail.com)
+
+### Now
+- [CAFEin.id](https://cafein.id) — cafe discovery platform in Indonesia
+- Baker Street’s Gang — 9-agent OpenClaw setup
+- [DevOps Focus Group](https://linktr.ee/devopsfocusgroup) — ~3K members on Discord & Telegram
 
 - ☁️ Cloud Architect & MLOps Engineer with 13+ years in the trenches — from bare metal to Kubernetes to ML pipelines
 - 🎓 Kubestronaut: CKS · CKA · CKAD · KCSA · KCNA (Linux Foundation) + 6× Google Cloud + 2× Red Hat — I collect certs like Pokémon
-[![CKS](https://img.shields.io/badge/CKS-blue)]() [![CKA](https://img.shields.io/badge/CKA-blue)]() [![CKAD](https://img.shields.io/badge/CKAD-blue)]() [![KCSA](https://img.shields.io/badge/KCSA-blue)]() [![KCNA](https://img.shields.io/badge/KCNA-blue)]() [![Red%20Hat%20x2](https://img.shields.io/badge/Red%20Hat-x2-red)]()
 - 🏗️ Previously architected cloud migrations across GKE, AKS & AWS for enterprises — 1,000+ workloads, zero drama
 - 🧪 Experimenting with agentic automation using [OpenClaw](https://github.com/openclaw/openclaw) + multi-agent systems
 - 🖼️ Computer vision integrator: camera calibration, multi-view geometry & 3D reconstruction, RTSP/GStreamer pipelines; deploy on NVIDIA Jetson/TensorRT & Kubernetes
-- ☕ Building [CAFEin.id](https://cafein.id) — a cafe discovery platform in Indonesia
 - 🧠 Running Baker Street’s Gang — a 9-agent setup powered by [OpenClaw](https://github.com/openclaw/openclaw)
 - ☕ Co-building [Vibe From Cafe](https://vibefromcafe.id) — a national remote workers community in Indonesia
 - 🧑‍🏫 Initiated [DevOps Focus Group](https://www.linkedin.com/company/devopsfocusgroup) — a DevOps learning community in Indonesia (~3K members on Discord & Telegram). Join: [linktr.ee/devopsfocusgroup](https://linktr.ee/devopsfocusgroup)
 
-### Now
 - [CAFEin.id](https://cafein.id) — cafe discovery platform in Indonesia
 - Baker Street’s Gang — 9-agent OpenClaw setup
 - [DevOps Focus Group](https://linktr.ee/devopsfocusgroup) — ~3K members on Discord & Telegram
