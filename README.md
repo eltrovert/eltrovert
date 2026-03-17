@@ -1,7 +1,6 @@
 ### Hi there, I'm [El](https://eltrovert.com)! 👋
 
 [🌐 Website](https://eltrovert.com) · [LinkedIn](https://linkedin.com/in/eltrovert) · [Telegram](https://t.me/eltrovert) · [Email](mailto:eltrovert@gmail.com)
-> Now: [CAFEin.id](https://cafein.id) • 9-agent OpenClaw • [DevOps Focus Group](https://linktr.ee/devopsfocusgroup)
 
 - ☁️ Cloud Architect & MLOps Engineer with 13+ years in the trenches — from bare metal to Kubernetes to ML pipelines
 - 🎓 Kubestronaut: CKS · CKA · CKAD · KCSA · KCNA (Linux Foundation) + 6× Google Cloud + 2× Red Hat — I collect certs like Pokémon
