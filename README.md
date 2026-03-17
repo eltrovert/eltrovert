@@ -5,7 +5,7 @@
 - 🏗️ Previously architected cloud migrations across GKE, AKS & AWS for enterprises — 1,000+ workloads, zero drama
 - 🧪 Experimenting with agentic automation using [OpenClaw](https://github.com/openclaw/openclaw) + multi-agent systems
 - 🖼️ Computer vision integrator: camera calibration, multi-view geometry & 3D reconstruction, RTSP/GStreamer pipelines; deploy on NVIDIA Jetson/TensorRT & Kubernetes
-- ☕ Building CAFEin.id — a cafe discovery platform in Indonesia — repo: [cafein.id](https://github.com/eltrovert/cafein.id)
+- ☕ Building [CAFEin.id](https://cafein.id) — a cafe discovery platform in Indonesia
 - 🧠 Running Baker Street’s Gang — a 9-agent setup powered by [OpenClaw](https://github.com/openclaw/openclaw)
 - ☕ Co-building [Vibe From Cafe](https://vibefromcafe.id) — a national remote workers community in Indonesia
 - 🧑‍🏫 Initiated [DevOps Focus Group](https://www.linkedin.com/company/devopsfocusgroup) — a DevOps learning community in Indonesia (~3K members on Discord & Telegram). Join: [linktr.ee/devopsfocusgroup](https://linktr.ee/devopsfocusgroup)
