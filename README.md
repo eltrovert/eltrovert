@@ -1,19 +1,17 @@
-### Hi there, I'm [El](https://eltrovert.com)! 👋
+### Hi, I'm El 👋
 
 [🌐 Website](https://eltrovert.com) · [LinkedIn](https://linkedin.com/in/eltrovert) · [Telegram](https://t.me/eltrovert) · [Email](mailto:eltrovert@gmail.com)
 
-- ☁️ System Architect & Principal DevMLSecOps with 13+ years in the trenches — from bare metal to Kubernetes to ML pipelines
-- 🎓 Kubestronaut: CKS · CKA · CKAD · KCSA · KCNA (Linux Foundation) + 6× Google Cloud + 2× Red Hat — I collect certs like Pokémon
-- 🏗️ Previously architected cloud migrations across GKE, AKS & AWS for enterprises — 1,000+ workloads, zero drama
-- 🧪 Experimenting with agentic automation using [OpenClaw](https://github.com/openclaw/openclaw) + multi-agent systems
-- 🖼️ Computer vision integrator: camera calibration, multi-view geometry & 3D reconstruction, RTSP/GStreamer pipelines; deploy on NVIDIA Jetson/TensorRT & Kubernetes
-- ☕ Co-building [Vibe From Cafe](https://vibefromcafe.id) — a national remote workers community in Indonesia
-- 🧑‍🏫 Initiated [DevOps Focus Group](https://www.linkedin.com/company/devopsfocusgroup) — a DevOps learning community in Indonesia (~3K members on Discord & Telegram). Join: [linktr.ee/devopsfocusgroup](https://linktr.ee/devopsfocusgroup)
+I work as a System Architect and Principal DevMLSecOps with more than thirteen years helping teams ship reliable platforms end to end, from bare metal and networks to Kubernetes and ML pipelines. I like calm engineering, clear trade‑offs, and systems that survive real life.
 
-- 🏡 Running a [homelab](https://github.com/eltrovert/homelab-workshop) that's more complex than most startups' infra
-- 💬 Ask me about Kubernetes, cloud architecture, and GitOps
-- 🧰 Stack: Kubernetes, Terraform, Helm, FluxCD/ArgoCD, Prometheus/Grafana, OpenCV, GStreamer, TensorRT
-- 📍 Indonesia · WIB (UTC+7) — open for remote and relocation
-- ⚡ Fun fact: I've been an extroverted introvert since before it was cool — hence *eltrovert*
+On the computer vision side I integrate the pieces that make products work in the wild, things like camera calibration, multi‑view geometry and 3D reconstruction, RTSP and GStreamer pipelines, then package them on NVIDIA Jetson and TensorRT, and run them on Kubernetes when scale helps.
 
-<!-- profile refresh: 2026-03-18 01:44 WIB -->
+I tinker with agentic automation using OpenClaw, a small Baker Street gang of cooperating agents that handle the boring glue so humans can focus on the interesting parts.
+
+Community matters to me. I co‑build Vibe From Cafe, a remote workers community in Indonesia, and I started the DevOps Focus Group with almost three thousand people learning together on Discord and Telegram.
+
+Outside of work I keep a homelab because learning by running things myself keeps me honest, and because it is fun when it behaves.
+
+If you want to talk Kubernetes, cloud architecture or GitOps, reach out. I am based in Indonesia, WIB time zone, open for remote and relocation.
+
+My stack includes Kubernetes, Terraform, Helm, FluxCD or ArgoCD, Prometheus and Grafana, OpenCV, GStreamer and TensorRT.
