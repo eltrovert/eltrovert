@@ -1,21 +1,15 @@
 ### Hi there, I'm [El](https://eltrovert.com)! 👋
 
 [🌐 Website](https://eltrovert.com) · [LinkedIn](https://linkedin.com/in/eltrovert) · [Telegram](https://t.me/eltrovert) · [Email](mailto:eltrovert@gmail.com)
-
-### Now
-- [CAFEin.id](https://cafein.id) — cafe discovery platform in Indonesia
-- Baker Street’s Gang — 9-agent OpenClaw setup
-- [DevOps Focus Group](https://linktr.ee/devopsfocusgroup) — ~3K members on Discord & Telegram
+> Now: [CAFEin.id](https://cafein.id) • 9-agent OpenClaw • [DevOps Focus Group](https://linktr.ee/devopsfocusgroup)
 
 - ☁️ Cloud Architect & MLOps Engineer with 13+ years in the trenches — from bare metal to Kubernetes to ML pipelines
 - 🎓 Kubestronaut: CKS · CKA · CKAD · KCSA · KCNA (Linux Foundation) + 6× Google Cloud + 2× Red Hat — I collect certs like Pokémon
 - 🏗️ Previously architected cloud migrations across GKE, AKS & AWS for enterprises — 1,000+ workloads, zero drama
 - 🧪 Experimenting with agentic automation using [OpenClaw](https://github.com/openclaw/openclaw) + multi-agent systems
 - 🖼️ Computer vision integrator: camera calibration, multi-view geometry & 3D reconstruction, RTSP/GStreamer pipelines; deploy on NVIDIA Jetson/TensorRT & Kubernetes
-- 🧠 Running Baker Street’s Gang — a 9-agent setup powered by [OpenClaw](https://github.com/openclaw/openclaw)
 - ☕ Co-building [Vibe From Cafe](https://vibefromcafe.id) — a national remote workers community in Indonesia
 - 🧑‍🏫 Initiated [DevOps Focus Group](https://www.linkedin.com/company/devopsfocusgroup) — a DevOps learning community in Indonesia (~3K members on Discord & Telegram). Join: [linktr.ee/devopsfocusgroup](https://linktr.ee/devopsfocusgroup)
-
 
 - 🏡 Running a [homelab](https://github.com/eltrovert/homelab-workshop) that's more complex than most startups' infra
 - 💬 Ask me about Kubernetes, cloud architecture, and GitOps
