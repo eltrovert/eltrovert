@@ -16,9 +16,6 @@
 - ☕ Co-building [Vibe From Cafe](https://vibefromcafe.id) — a national remote workers community in Indonesia
 - 🧑‍🏫 Initiated [DevOps Focus Group](https://www.linkedin.com/company/devopsfocusgroup) — a DevOps learning community in Indonesia (~3K members on Discord & Telegram). Join: [linktr.ee/devopsfocusgroup](https://linktr.ee/devopsfocusgroup)
 
-- [CAFEin.id](https://cafein.id) — cafe discovery platform in Indonesia
-- Baker Street’s Gang — 9-agent OpenClaw setup
-- [DevOps Focus Group](https://linktr.ee/devopsfocusgroup) — ~3K members on Discord & Telegram
 
 - 🏡 Running a [homelab](https://github.com/eltrovert/homelab-workshop) that's more complex than most startups' infra
 - 💬 Ask me about Kubernetes, cloud architecture, and GitOps
