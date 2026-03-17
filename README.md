@@ -11,3 +11,5 @@
 - 🛠️ Tools I live in: Go, Python, Terraform, Helm, FluxCD, ArgoCD, Prometheus, Grafana
 - 📍 Indonesia (open for remote)
 - ⚡ Fun fact: I've been an extroverted introvert since before it was cool — hence *eltrovert*
+
+<!-- profile refresh: 2026-03-18 01:44 WIB -->
