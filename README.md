@@ -14,6 +14,7 @@ Community matters to me. I co‑build [Vibe From Cafe](https://vibefromcafe.id),
 
 Outside of work I keep a homelab because learning by running things myself keeps me honest, and because it is fun when it behaves.
 
-If you want to talk Kubernetes, cloud architecture or GitOps, reach out. I am based in Indonesia, WIB time zone, open for remote and relocation.
+Need help with Kubernetes architecture, cloud platform design, GitOps at scale, or production SRE and MLOps? I can jump in.
+I am based in Indonesia (WIB) and open to remote or relocation.
 
 My stack includes Kubernetes, Terraform, Helm, FluxCD or ArgoCD, Prometheus and Grafana, OpenCV, GStreamer and TensorRT.
