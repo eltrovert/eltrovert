@@ -10,7 +10,7 @@
 - ☕ Co-building [Vibe From Cafe](https://vibefromcafe.id) — a national remote workers community in Indonesia
 - 🧑‍🏫 Initiated [DevOps Focus Group](https://www.linkedin.com/company/devopsfocusgroup) — a DevOps learning community in Indonesia (~3K members on Discord & Telegram). Join: [linktr.ee/devopsfocusgroup](https://linktr.ee/devopsfocusgroup)
 - 🏡 Running a [homelab](https://github.com/eltrovert/homelab-workshop) that's more complex than most startups' infra
-- 💬 Ask me about Kubernetes, cloud architecture, GitOps, or Go
+- 💬 Ask me about Kubernetes, cloud architecture, and GitOps
 - 🛠️ Tools: Python, OpenCV, GStreamer, TensorRT, MediaPipe, Terraform, Helm, FluxCD, ArgoCD, Prometheus, Grafana
 - 📍 Indonesia — open for remote and relocation
 - ⚡ Fun fact: I've been an extroverted introvert since before it was cool — hence *eltrovert*
